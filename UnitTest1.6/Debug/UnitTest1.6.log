@@ -1,0 +1,4 @@
+﻿  UnitTest1.6.cpp
+D:\Lab-1\1.6\UnitTest1.6\UnitTest1.6.cpp(17,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Lab-1\1.6\1.6\Date.cpp(67): warning C4715: Date::Triad::Gtq: значение возвращается не при всех путях выполнения
+  UnitTest1.6.vcxproj -> D:\Lab-1\1.6\Debug\UnitTest1.6.dll

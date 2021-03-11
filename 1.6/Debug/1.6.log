@@ -1,0 +1,3 @@
+﻿  Date.cpp
+D:\Lab-1\1.6\1.6\Date.cpp(67): warning C4715: Date::Triad::Gtq: значение возвращается не при всех путях выполнения
+  1.6.vcxproj -> D:\Lab-1\1.6\Debug\1.6.exe
